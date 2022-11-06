@@ -85,3 +85,41 @@ body {
 .pera {
     margin-top: 100px;
 }
+
+.global {
+    margin-left: 100px;
+    margin-top: 150px;
+}
+
+.community {
+    margin-top: 30px;
+    margin-left: 60px;
+    margin-right: 10px;
+    background-image: url(./images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    background-size: 200px;
+    background-position-x: right;
+    background-position-y: bottom;
+}
+
+.footer {
+    background-color: black;
+}
+
+.foot-text {
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+
+.footer-text {
+    text-align: center;
+    color: white;
+    padding-bottom: 40px;
+}
+
+.year {
+    color: orange;
+    font-size: 50px;
+}
