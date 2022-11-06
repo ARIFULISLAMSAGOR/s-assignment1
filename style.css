@@ -1,0 +1,87 @@
+body {
+    font-family: 'Lobster', cursive;
+    font-family: 'Merriweather', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Slab', serif;
+    font-family: 'Zen Antique Soft', serif;
+}
+
+.orange {
+    color: orange;
+    font-size: 50px;
+}
+
+.first-section {
+    display: flex;
+    margin-top: 20px;
+
+}
+
+.first-line {
+    font-size: 50px;
+    margin-bottom: -10px;
+}
+
+.first-pera {
+    margin-left: 200px;
+    margin-top: 80px;
+}
+
+.first-img img {
+    width: 70%;
+    margin-left: 90px;
+    margin-top: 10px;
+}
+
+.details-border {
+    border-image: linear-gradient(purple, tomato);
+    border-image-slice: 1;
+    padding-left: 10px;
+    border-left: 4px solid;
+}
+
+.btn {
+    padding: 10px 30px;
+    background-color: chocolate;
+    color: antiquewhite;
+    border: none;
+    border-radius: 3px;
+}
+
+.text-side {
+    text-align: center;
+    font-size: 50px;
+}
+
+.third-section {
+    display: flex;
+    margin-top: 20px;
+    background-image: url(./images//shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: 200px;
+    margin-left: 20px;
+
+}
+
+.mission {
+    width: 300px;
+    background-color: aqua;
+    border-radius: 20px;
+}
+
+.mission img {
+    width: 100%;
+}
+
+.second-div {
+    display: flex;
+    margin-left: 180px;
+    justify-content: space-between;
+    margin-right: 100px;
+    text-align: center;
+}
+
+.pera {
+    margin-top: 100px;
+}
